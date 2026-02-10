@@ -30,7 +30,7 @@ const Footer = () => {
           <Stack direction="row" spacing={1}>
             <IconButton
               component="a"
-              href="https://shxv-dev-2.vercel.app/"
+              href="https://shxv-dev.onrender.com/"
               target="_blank_"
               rel="noopener noreferrer"
               aria-label="GitHub"
